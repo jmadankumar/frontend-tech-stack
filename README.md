@@ -14,6 +14,7 @@
 - [ReactJS](https://reactjs.org/)
 
 ### React UI Components
+
 - [Material UI](https://material-ui.com/)
 - [Ant Design](https://ant.design/)
 - [Fluent UI](https://developer.microsoft.com/en-us/fluentui/#/controls/web)
@@ -56,6 +57,7 @@
 - [Rollup](https://rollupjs.org/)
 
 ### Unit Testing
+
 - [Jest](https://jestjs.io/)
 - [React testing library](https://testing-library.com/docs/react-testing-library/intro/)
 - [Chai](https://www.chaijs.com/)
@@ -63,11 +65,9 @@
 - [Cypress](https://www.cypress.io/)
 - [Enzyme](https://enzymejs.github.io/enzyme/)
 
-
 ### Browser Testing
 
 - [Browser Stack](https://www.browserstack.com/)
-
 
 ### Package mananger
 
@@ -79,6 +79,7 @@
 - [Sentry](https://sentry.io)
 
 ### Security
+
 - [Mozilla Observatory](https://observatory.mozilla.org/)
 - [OWASP](https://owasp.org/www-project-top-ten/)
 
@@ -87,12 +88,10 @@
 - [Intercom](https://www.intercom.com/)
 - [Salesforce](salesforce)
 
-
 ### Source Code Maintenance
 
 - [Github](https://github.com/)
 - [Gitlab](https://gitlab.com/)
-
 
 ### Single App Application Deployment
 
@@ -104,12 +103,10 @@
 - [Heroku](https://www.heroku.com/)
 - [Github Pages](https://github.com/)
 
-
 ### Code Editor
 
-- [Visual studio code](https://code.visualstudio.com/)    
+- [Visual studio code](https://code.visualstudio.com/)
 - [Atom](https://atom.io/)
-
 
 ### Analytics
 
@@ -126,18 +123,20 @@
 - [Uptime robot](https://uptimerobot.com/)
 - [Pingdom](https://www.pingdom.com/product/uptime-monitoring/)
 - [Datadog](https://www.datadoghq.com/)
-- 
+-
+
 ### Project management tool
 
 - [Jira](https://www.atlassian.com/software/jira)
 
-
 ### CMS
+
 - [Sanity.io](https://www.sanity.io/react-cms)
 - [Butter CMS](https://buttercms.com/react-cms/)
 - [Story blok](https://www.storyblok.com/)
 
 ### UI Prototyping
+
 - [Adobe XD](https://www.adobe.com/in/products/xd.html)
 - [Figma](https://www.figma.com/)
 - [Invision](https://www.invisionapp.com/)
@@ -148,6 +147,7 @@
 - [Google Optimize](https://marketingplatform.google.com/about/optimize/)
 
 ### CDN
+
 - [Cloudflare](https://www.cloudflare.com/cdn)
 - [Cloudfront](https://aws.amazon.com/cloudfront/)
 - [Fastly](https://www.fastly.com/)
@@ -156,8 +156,17 @@
 
 - [Nginx](https://www.nginx.com/)
 
-
 ### Illustration, Photos and ICONS
 
 - [Undraw](https://undraw.co/)
 - [Unsplash](https://unsplash.com/)
+
+### Rapid Prototyping
+
+- [Jhipster](https://www.jhipster.tech/)
+
+### CI/CD
+
+- [Jenkins](https://www.jenkins.io/)
+- [Gitlab CI](https://docs.gitlab.com/ee/ci/)
+- [Github Workflow](https://docs.github.com/en/actions/learn-github-actions)
