@@ -7,11 +7,12 @@
 
 ### ECMA Version
 
-- ES6, ES7, ES8, ES9
+- ES6, ES7, ES8, ES9, ES10, ES11
 
 ### Javascript framework
 
 - [ReactJS](https://reactjs.org/)
+- [Angular](https://angular.io/)
 
 ### React UI Components
 
@@ -93,7 +94,7 @@
 - [Github](https://github.com/)
 - [Gitlab](https://gitlab.com/)
 
-### Single App Application Deployment
+### Single Page Application Deployment
 
 - [Netlify](https://www.netlify.com/)
 - [Aws Amplify](https://aws.amazon.com/amplify/)
@@ -123,7 +124,6 @@
 - [Uptime robot](https://uptimerobot.com/)
 - [Pingdom](https://www.pingdom.com/product/uptime-monitoring/)
 - [Datadog](https://www.datadoghq.com/)
--
 
 ### Project management tool
 
@@ -160,6 +160,7 @@
 
 - [Undraw](https://undraw.co/)
 - [Unsplash](https://unsplash.com/)
+- [Story Set](https://storyset.com/)
 
 ### Rapid Prototyping
 
@@ -170,3 +171,12 @@
 - [Jenkins](https://www.jenkins.io/)
 - [Gitlab CI](https://docs.gitlab.com/ee/ci/)
 - [Github Workflow](https://docs.github.com/en/actions/learn-github-actions)
+
+### Performance
+
+- [Light House](https://web.dev/measure/)
+- [Browser DevTool]
+
+### Diagram 
+
+- [App Diagram](https://app.diagrams.net/)
