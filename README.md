@@ -69,6 +69,7 @@
 ### Browser Testing
 
 - [Browser Stack](https://www.browserstack.com/)
+- [Smartbear](https://smartbear.com/product/testcomplete/cross-browser-testing-tool/)
 
 ### Package mananger
 
